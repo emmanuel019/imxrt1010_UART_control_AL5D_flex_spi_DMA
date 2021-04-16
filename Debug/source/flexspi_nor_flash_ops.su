@@ -1,0 +1,16 @@
+fsl_clock.h:820:20:CLOCK_SetMux	24	static
+fsl_clock.h:857:20:CLOCK_SetDiv	24	static
+fsl_flexspi.h:413:20:FLEXSPI_SoftwareReset	16	static
+fsl_flexspi.h:666:20:FLEXSPI_GetBusIdleStatus	16	static
+app.h:65:20:flexspi_clock_init	8	static
+flexspi_nor_flash_ops.c:33:13:flexspi_callback	24	static
+flexspi_nor_flash_ops.c:42:10:flexspi_nor_write_enable	40	static
+flexspi_nor_flash_ops.c:59:10:flexspi_nor_wait_bus_busy	48	static
+flexspi_nor_flash_ops.c:115:10:flexspi_nor_enable_quad_mode	40	static
+flexspi_nor_flash_ops.c:164:10:flexspi_nor_flash_erase_sector	40	static
+flexspi_nor_flash_ops.c:215:10:flexspi_nor_flash_program	48	static
+flexspi_nor_flash_ops.c:274:10:flexspi_nor_flash_page_program	48	static
+flexspi_nor_flash_ops.c:330:10:flexspi_nor_read_data	48	static
+flexspi_nor_flash_ops.c:370:10:flexspi_nor_get_vendor_id	40	static
+flexspi_nor_flash_ops.c:397:10:flexspi_nor_erase_chip	40	static
+flexspi_nor_flash_ops.c:428:6:flexspi_nor_flash_init	112	static
